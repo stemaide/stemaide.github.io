@@ -1,2 +1,2 @@
-# stemaide.github.io
-stemaide repo website
+# stemaide.web
+ stemaide.web
